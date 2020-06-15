@@ -1,0 +1,6 @@
+name: HoodHelmet
+version: "1.0.0"
+main: Dan\HoodHelmet\Main
+description: "Chapeau anti pseudo"
+author: DanStanLED
+api: ["3.0.0","3.0.2","4.0.0"]
